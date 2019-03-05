@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+### Workspace Utilities ##################################
+  workspace:
+    links:
+      - "nginx:adminer.dev.idevcode.com"
+      - "mysql:booger"

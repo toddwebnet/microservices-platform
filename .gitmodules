@@ -1,0 +1,27 @@
+[submodule "adminer"]
+	path = adminer
+	url = git@github.com:toddwebnet/microservices-adminer.git
+[submodule "auth-server"]
+	path = auth-server
+	url = git@github.com:toddwebnet/microservices-auth-server.git
+[submodule "docker"]
+	path = docker
+	url = git@github.com:toddwebnet/docker-dev.git
+[submodule "lib-idevcode"]
+	path = lib-idevcode
+	url = git@github.com:toddwebnet/idevcode-common.git
+[submodule "pi-scripts"]
+	path = pi-scripts
+	url = git@github.com:toddwebnet/pi-scripts.git
+[submodule "monitoring"]
+	path = monitoring
+	url = git@github.com:toddwebnet/monitoring.git
+[submodule "intrusionDetect"]
+	path = intrusionDetect
+	url = git@github.com:toddwebnet/intrusionDetect.git
+[submodule "cdb"]
+	path = cdb
+	url = git@github.com:toddwebnet/idevcode-cdn.git
+[submodule "cdn"]
+	path = cdn
+	url = git@github.com:toddwebnet/idevcode-cdn.git
